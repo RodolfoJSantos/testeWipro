@@ -1,0 +1,11 @@
+Teste SQL
+
+Respostas:
+
+1)
+
+select COUNT(1) as quantidade, st.dsStatus 
+from tb_Processo pro
+right join tb_status st
+on pro.idStatus = st.idStatus
+group by st.dsStatus
