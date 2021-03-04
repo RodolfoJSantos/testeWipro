@@ -1,11 +1,31 @@
 Teste SQL
 
 Respostas:
-
 1)
 
-select COUNT(1) as quantidade, st.dsStatus 
-from tb_Processo pro
+SELECT COUNT(1) AS quantidade, st.dsStatus 
+FROM tb_Processo pro
 right join tb_status st
-on pro.idStatus = st.idStatus
-group by st.dsStatus
+ON pro.idStatus = st.idStatus
+GROUP BY st.dsStatus
+
+
+2)
+
+SELECT MAX(dtAndamento) MaiorDtAndamento FROM tb_Andamento andm
+inner join tb_Processo pro
+ON andm.idProcesso = pro.IdProcesso
+WHERE YEAR(pro.[DtEncerramento]) = 2013
+
+
+3)
+
+SELECT COUNT(DtEncerramento) Quantidade FROM tb_Processo
+GROUP BY DtEncerramento
+HAVING COUNT(DtEncerramento) > 5
+
+
+4)
+
+SELECT (REPLICATE ('0', (12 - LEN([nroProcesso])) ) + CAST ([nroProcesso] AS VARCHAR(12))) NRO_PROCESSO
+FROM tb_Processo
