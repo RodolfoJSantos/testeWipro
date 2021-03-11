@@ -1,0 +1,9 @@
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\bin\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.deps.json
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\bin\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.dll
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\bin\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.pdb
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\obj\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.csprojAssemblyReference.cache
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\obj\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.AssemblyInfoInputs.cache
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\obj\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.AssemblyInfo.cs
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\obj\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.csproj.CoreCompileInputs.cache
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\obj\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.dll
+C:\Labs\TesteProcesso\WiproTeste\WebApiBackGroundServices.Services\obj\Debug\netcoreapp3.1\WebApiBackGroundServices.Services.pdb

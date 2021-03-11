@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIB0AU/tddG3sl846EIihIJ+wioMPkwfByqaTFj4fcGdhWb6EqaChPZKEyUUqHUBfyZbGJOOGvbIOBg+NL3k8g==",
+  "success": true,
+  "projectFilePath": "C:\\Labs\\TesteProcesso\\WiproTeste\\WebApiBackGroundServices.Services\\WebApiBackGroundServices.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\5.0.0\\microsoft.extensions.hosting.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

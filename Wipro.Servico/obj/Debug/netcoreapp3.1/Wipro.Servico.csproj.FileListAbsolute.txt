@@ -1,0 +1,12 @@
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\bin\Debug\netcoreapp3.1\Wipro.Servico.deps.json
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\bin\Debug\netcoreapp3.1\Wipro.Servico.dll
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\bin\Debug\netcoreapp3.1\Wipro.Servico.pdb
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csprojAssemblyReference.cache
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.AssemblyInfoInputs.cache
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.AssemblyInfo.cs
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csproj.CoreCompileInputs.cache
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csproj.CopyComplete
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.dll
+C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.pdb
