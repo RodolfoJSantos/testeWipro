@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKVd/wImvWQj6709awn8w1TwcIMJn8lADYYFa1kgnSOr/ESsKyCon0LExi/UwxAUXJOdJ9RUmWNqR5s6dRm5qQ==",
+  "dgSpecHash": "cE7Xjw1b/QbThJbkM7SxpllcFe+fVytDdF9WrmKGbbHP5y3EjXvqiRM+6q3/oKNelg/9urEkcjYiRjCsaoR6gA==",
   "success": true,
-  "projectFilePath": "C:\\Labs\\TesteProcesso\\WiproTeste\\Wipro.Rotina\\Wipro.Rotina.csproj",
+  "projectFilePath": "C:\\Users\\Rodolfo\\Desktop\\cvRodolfoAtualizado\\testeWipro\\Wipro.Rotina\\Wipro.Rotina.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodolfo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

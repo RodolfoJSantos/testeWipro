@@ -36,8 +36,6 @@ namespace Wipro.Servico
                         lista = JsonSerializer.Deserialize<List<Moeda>>(message);
 
                         arquivos.CriarArquivo(lista);
-                        //CriarArquivo(lista);
-                        //ObterCotacao();
 
                         channel.BasicAck(ea.DeliveryTag, false);
                     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+UlGn/jS8N1Z9lmyjSkiYNb0phlaLUyIyX2M0AeaQigtHixhoCru1UIjbTX2ddiDRsxuH7h8hBby5a4b0bOzw==",
+  "dgSpecHash": "H0YWDrwqDPV+7jqcnJ7FbWPhZM7BhrHmUaX1qjyNMy+Dw1Eo+bV8yzAglzCh5VemMm1wr0UMoiELMBZyL3NptQ==",
   "success": true,
-  "projectFilePath": "C:\\Labs\\TesteProcesso\\WiproTeste\\WiproTeste\\WiproTeste.csproj",
+  "projectFilePath": "C:\\Users\\Rodolfo\\Desktop\\cvRodolfoAtualizado\\testeWipro\\WiproTeste\\WiproTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

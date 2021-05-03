@@ -8,8 +8,6 @@ namespace Wipro.Servico
 {
     public class Emissor
     {
-
-
         public string AddItemFila(List<Moeda> itens)
         {
             var factory = new ConnectionFactory() { HostName = "localhost" };
@@ -33,7 +31,6 @@ namespace Wipro.Servico
                                         basicProperties: null,
                                         body: body);
                 Console.WriteLine(" [x] Sent {0}", message);
-
             }
         }
     }

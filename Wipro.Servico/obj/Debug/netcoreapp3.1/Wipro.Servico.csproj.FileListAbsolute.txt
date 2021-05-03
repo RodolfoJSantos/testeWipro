@@ -10,3 +10,15 @@ C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Ser
 C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csproj.CopyComplete
 C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.dll
 C:\Labs\TesteProcesso\WiproTeste\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.pdb
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\bin\Debug\netcoreapp3.1\Wipro.Servico.deps.json
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\bin\Debug\netcoreapp3.1\Wipro.Servico.dll
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\bin\Debug\netcoreapp3.1\Wipro.Servico.pdb
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csprojAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.AssemblyInfoInputs.cache
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.AssemblyInfo.cs
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.csproj.CopyComplete
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.dll
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Wipro.Servico\obj\Debug\netcoreapp3.1\Wipro.Servico.pdb

@@ -7,3 +7,12 @@ C:\Labs\TesteProcesso\WiproTeste\Dominio\obj\Debug\netcoreapp3.1\Dominio.Assembl
 C:\Labs\TesteProcesso\WiproTeste\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
 C:\Labs\TesteProcesso\WiproTeste\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 C:\Labs\TesteProcesso\WiproTeste\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Rodolfo\Desktop\cvRodolfoAtualizado\testeWipro\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
